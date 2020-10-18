@@ -1,5 +1,5 @@
 # ClipboardToDo
-Looking for a way to append task from clipboard to ToDo list via shortcut key? (Tested on Win10)
+Looking for a way to append task from clipboard to `ToDo.md` list via shortcut key? (Tested on Win10)
 
 ## Steps
 1. Clone this repository or download it into your preferred directory
