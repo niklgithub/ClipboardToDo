@@ -1,0 +1,1 @@
+START /MIN "your title" "%0\..\ClipboardToDo.bat"
